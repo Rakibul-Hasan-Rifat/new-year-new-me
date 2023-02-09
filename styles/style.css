@@ -133,7 +133,7 @@ main {
 .special_section {
     padding: 60px;
     border-radius: 8px;
-    background-image: linear-gradient(to right, rgba(0, 95, 172, 1), rgba(0, 95, 172, .1)), url("../images/watch.png");
+    background-image: linear-gradient(to right, rgba(0, 95, 172, 1), rgba(0, 95, 172, 0.1)), url("../images/watch.png");
     /* background-image: url("../images/gradient.png"), url("../images/watch.png"); */
 }
 
